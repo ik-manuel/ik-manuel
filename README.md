@@ -1,7 +1,7 @@
 
 
-### Hi there 👋, Hi, there, I'm Ikechukwu Manuel
-#### Full stack Web Developer 💻, UI/UX Designer📱
+## Hi there 👋, Hi, there, I'm Ikechukwu Manuel
+### Full stack Web Developer 💻, UI/UX Designer📱
 ![Full stack Web Developer 💻, UI/UX Designer📱](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 
