@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">A full-stack developer 👨‍💻 ,  UI/UX Designer.</div>  
+## <div align="center">A full-stack developer 👨‍💻 ,  UI/UX Designer.</div>  
   
 
 - 🔭 I’m currently working on [Q&A Mini](https://github.com/ik-manuel/q&a)  
@@ -130,5 +130,3 @@
 <div align="center"></div>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
