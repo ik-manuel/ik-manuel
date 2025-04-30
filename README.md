@@ -8,10 +8,10 @@
 <br/> 
   
 
-- 🔭 I’m currently working on [Q&A Mini](https://github.com/ik-manuel/q&a)  
+- 🔭 I’m currently working on [LaraTalk](https://github.com/ik-manuel/LaraTalk)  
   
 
-- 🌱 I’m currently learning Laravel  
+- 🌱 I’m currently learning ReactJS  
   
 
 - ❓ Ask me about anything related to web  
