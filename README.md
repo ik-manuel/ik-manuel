@@ -3,7 +3,7 @@
 </div>  
   
 
-# A full-stack developer 👨‍💻 ,  UI/UX Designer. 
+# A Full-Stack Developer 👨‍💻 ,  UI/UX Designer. 
 
 <br/> 
   
