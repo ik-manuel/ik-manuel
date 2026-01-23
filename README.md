@@ -3,15 +3,15 @@
 </div>  
   
 
-# A Full-Stack Developer 👨‍💻 ,  UI/UX Designer. 
+# A Full-Stack Developer 👨‍💻 ,  AI Engineer, Automation & AgenticAI. 
 
 <br/> 
   
 
-- 🔭 I’m currently working on [LaraTalk](https://github.com/ik-manuel/LaraTalk)  
+- 🔭 I’m currently working on Agentic AI # [LaraTalk](https://github.com/ik-manuel/LaraTalk)  
   
 
-- 🌱 I’m currently learning ReactJS  
+- 🌱 I’m currently Building RAG Systems  
   
 
 - ❓ Ask me about anything related to web  
