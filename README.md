@@ -8,7 +8,7 @@
 <br/> 
   
 
-- 🔭 I’m currently working on Agentic AI # [LaraTalk](https://github.com/ik-manuel/LaraTalk)  
+- 🔭 I’m currently working on Agentic AI and # [Complaint AI](https://github.com/ik-manuel/complaint-ai)  
   
 
 - 🌱 I’m currently Building RAG Systems  
