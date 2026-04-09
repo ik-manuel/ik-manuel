@@ -3,7 +3,7 @@
 </div>  
   
 
-# A Full-Stack Developer 👨‍💻 ,  AI Engineer, Automation & AgenticAI. 
+# AI-Integrated Backend Engineer 👨‍💻. 
 
 <br/> 
   
