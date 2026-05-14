@@ -1,96 +1,110 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
-  
 
-# AI-Integrated Backend Engineer 👨‍💻. 
+```md
+<h1 align="center">Hi 👋, I'm Manuel Ikechukwu</h1>
+<h3 align="center">AI-Integrated Backend Engineer 👨‍💻</h3>
 
-<br/> 
-  
+<p align="center">
+  Building scalable backend systems, RAG pipelines, and Agentic AI applications.
+</p>
 
-- 🔭 I’m currently working on Agentic AI and # [Complaint AI](https://github.com/ik-manuel/complaint-ai)  
-  
+---
 
-- 🌱 I’m currently Building RAG Systems  
-  
+## 🚀 About Me
 
-- ❓ Ask me about anything related to web  
-  
+- 🔭 Currently working on [Complaint AI](https://github.com/ik-manuel/complaint-ai)
+- 🌱 Building RAG Systems & Agentic AI Workflows
+- 💬 Ask me about Backend Development, AI Integration, APIs, and Laravel
+- ⚡ Fun fact: *I hate coding* 😅
 
-- ⚡ Fun fact: I hate coding  
-  
+---
 
-<br/>  
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ik-manuel&show_icons=true&theme=dark" />
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ik-manuel&layout=compact"/>
+## 📊 GitHub Stats
 
-<img align="left" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img align="left" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<div align="center">
 
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ik-manuel&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<br/> 
-<br/> 
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ik-manuel&layout=compact&theme=tokyonight&hide_border=true" />
 
-<table><tr><td valign="top" width="100%">
-
-### Tools  
-<div align="center">   
-<img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />  
-<img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
-<img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" />  
-<img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" />   
-<img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/bem.svg" alt="BEM" height="50" />  
-<img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="50" />  
-<img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />   
-<img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/woocommerce.png" alt="WooCommerce" height="50" />  
-<img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" />  
-<img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
-<img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-<img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /> 
-  
 </div>
-</td></tr></table>  
 
-<br/>  
+---
 
+## 🛠️ Tech Stack
 
-## Connect with me  
+### Languages & Frameworks
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+</p>
+
+### Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,linux,git,github,gitlab,bash,figma,wordpress,docker,vscode" />
+</p>
+
+---
+
+## 🤖 AI & Backend Interests
+
+- Retrieval-Augmented Generation (RAG)
+- AI Agents & Tool Calling
+- Vector Databases
+- API Architecture
+- Scalable Backend Systems
+- Laravel + AI Integration
+- LLM Orchestration
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://instagram.com/Manuelhsp_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/Ik-manuel" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://twitter.com/Manuelhsp_" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+
+  <a href="https://linkedin.com/in/Ik-manuel" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://www.behance.net/manueljonas1" target="_blank">
+    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🎧 Currently Listening To
+
 <div align="center">
-<a href="https://instagram.com/Manuelhsp_" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/Ik-manuel" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/Manuelhsp_" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/Ik-manuel" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.behance.net/manueljonas1" target="_blank">
-<img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
 
-<br/>  
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31l6tnphz3n5n5rvomfbeusnkbai&cover_image=true&theme=novatorem" />
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31l6tnphz3n5n5rvomfbeusnkbai&cover_image=true&theme=default" /></div>  
+</div>
 
-<br/>  
+---
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Ik-manuel&&style=flat-square" align="center" />
-</div>  
-  
+## 👀 Profile Views
 
-<br/>  
-
-<div align="center"></div>
-<br />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ik-manuel&style=for-the-badge" />
+</p>
+```
 
