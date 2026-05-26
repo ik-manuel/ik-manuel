@@ -12,7 +12,7 @@
 
 # 👨‍💻 About Me
 
-- 🔭 Currently working on [ResumeAI Lab](https://github.com/ik-manuel/resume-ai-lab)
+- 🔭 Currently working on [Research Agent](https://github.com/ik-manuel/research-agent)
 - 🌱 Building RAG Systems & Agentic AI Applications
 - 🤖 Exploring AI Agents, Tool Calling & LLM Orchestration
 - 💬 Ask me about Laravel, APIs, Backend Systems & AI Integration
