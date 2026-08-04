@@ -12,7 +12,7 @@
 
 # 👨‍💻 About Me
 
-- 🔭 Currently working on [Research Agent](https://github.com/ik-manuel/research-agent)
+- 🔭 Currently working on [Code Agent Dev](https://github.com/ik-manuel/code-agent-dev)
 - 🌱 Building RAG Systems & Agentic AI Applications
 - 🤖 Exploring AI Agents, Tool Calling & LLM Orchestration
 - 💬 Ask me about Laravel, APIs, Backend Systems & AI Integration
